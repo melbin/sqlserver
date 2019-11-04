@@ -1,0 +1,2 @@
+-- second query
+SELECT * FROM countries;
